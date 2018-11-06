@@ -1,6 +1,8 @@
 # DOM-pig-game
 Interactive dice game using DOM manipulation in JavaScript!
 
+<img width="1000" alt="screen shot 2018-11-06 at 10 43 42 am" src="https://user-images.githubusercontent.com/41349472/48075293-ec509d80-e1b0-11e8-8593-bda470f32846.png">
+
 ## How to play:
 
 * The game has 2 players, playing in rounds
