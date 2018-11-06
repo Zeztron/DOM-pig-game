@@ -1,5 +1,6 @@
 # DOM-pig-game
 Interactive dice game using DOM manipulation in JavaScript!
+From the Complete JavaScript Course by Jonas Schmedtmann.
 
 ## To Play:
 > https://zeztron.github.io/DOM-pig-game/
